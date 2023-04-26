@@ -1,6 +1,4 @@
-**use "H:\STATA BUAN\car_fatalities (4).dta", clear
-
-use "H:\BUAN 6312\Project\car_fatalities (4).dta" , clear
+use "H:\STATA\car_fatalities.dta", clear
 
 //generate transformed variables
 g VFR = mraidall*10000
